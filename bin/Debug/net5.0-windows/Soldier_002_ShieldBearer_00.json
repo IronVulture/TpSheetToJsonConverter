@@ -1,0 +1,5891 @@
+{
+  "frames": [
+    {
+      "filename": "Soldier_002_ShieldBearer_Attack_Melee_L_BeforeHit_0000",
+      "frame": {
+        "x": 258,
+        "y": 246,
+        "w": 79,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.5443037974683544,
+        "y": 0.024390243902439046
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Attack_Melee_L_BeforeHit_0001",
+      "frame": {
+        "x": 167,
+        "y": 248,
+        "w": 79,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 0,
+        "w": 79,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.46835443037974683,
+        "y": 0.024390243902439046
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Attack_Melee_L_BeforeHit_0002",
+      "frame": {
+        "x": 258,
+        "y": 164,
+        "w": 82,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 82,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.524390243902439,
+        "y": 0.025000000000000022
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Attack_Melee_L_Hold_0000",
+      "frame": {
+        "x": 199,
+        "y": 1,
+        "w": 88,
+        "h": 79
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.6818181818181818,
+        "y": 0.012658227848101222
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Attack_Melee_L_Recover_0000",
+      "frame": {
+        "x": 437,
+        "y": 83,
+        "w": 83,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 108,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.6506024096385542,
+        "y": 0.012195121951219523
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Attack_Melee_L_Recover_0001",
+      "frame": {
+        "x": 550,
+        "y": 1,
+        "w": 83,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5542168674698795,
+        "y": 0.012048192771084376
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Attack_Melee_L_Recover_0002",
+      "frame": {
+        "x": 378,
+        "y": 1,
+        "w": 84,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 94,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.5595238095238095,
+        "y": 0.012499999999999956
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Attack_Melee_L_Recover_0003",
+      "frame": {
+        "x": 1,
+        "y": 942,
+        "w": 76,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.5789473684210527,
+        "y": 0.024691358024691357
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Attack_Melee_L_Smear_0000",
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 97,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 97,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 138,
+        "h": 152
+      },
+      "pivot": {
+        "x": 0.711340206185567,
+        "y": 0.02564102564102566
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Attack_Melee_L_Smear_0001",
+      "frame": {
+        "x": 91,
+        "y": 81,
+        "w": 87,
+        "h": 79
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.6781609195402298,
+        "y": 0.012658227848101222
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Attack_Melee_R_BeforeHit_0000",
+      "frame": {
+        "x": 83,
+        "y": 330,
+        "w": 79,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 0,
+        "w": 79,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.45569620253164556,
+        "y": 0.024390243902439046
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Attack_Melee_R_BeforeHit_0001",
+      "frame": {
+        "x": 1,
+        "y": 412,
+        "w": 79,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.5316455696202531,
+        "y": 0.024390243902439046
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Attack_Melee_R_BeforeHit_0002",
+      "frame": {
+        "x": 1,
+        "y": 244,
+        "w": 82,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 0,
+        "w": 82,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.47560975609756095,
+        "y": 0.025000000000000022
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Attack_Melee_R_Hold_0000",
+      "frame": {
+        "x": 1,
+        "y": 81,
+        "w": 88,
+        "h": 79
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 0,
+        "w": 88,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.3181818181818182,
+        "y": 0.012658227848101222
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Attack_Melee_R_Recover_0000",
+      "frame": {
+        "x": 173,
+        "y": 164,
+        "w": 83,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 0,
+        "w": 83,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 108,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.3493975903614458,
+        "y": 0.012195121951219523
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Attack_Melee_R_Recover_0001",
+      "frame": {
+        "x": 352,
+        "y": 83,
+        "w": 83,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 0,
+        "w": 83,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.4457831325301205,
+        "y": 0.012048192771084376
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Attack_Melee_R_Recover_0002",
+      "frame": {
+        "x": 180,
+        "y": 82,
+        "w": 84,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 84,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 94,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.44047619047619047,
+        "y": 0.012499999999999956
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Attack_Melee_R_Recover_0003",
+      "frame": {
+        "x": 313,
+        "y": 942,
+        "w": 76,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 0,
+        "w": 76,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.42105263157894735,
+        "y": 0.024691358024691357
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Attack_Melee_R_Smear_0000",
+      "frame": {
+        "x": 100,
+        "y": 1,
+        "w": 97,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 0,
+        "w": 97,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 138,
+        "h": 152
+      },
+      "pivot": {
+        "x": 0.28865979381443296,
+        "y": 0.02564102564102566
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Attack_Melee_R_Smear_0001",
+      "frame": {
+        "x": 289,
+        "y": 1,
+        "w": 87,
+        "h": 79
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 0,
+        "w": 87,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.3218390804597701,
+        "y": 0.012658227848101222
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0000",
+      "frame": {
+        "x": 159,
+        "y": 505,
+        "w": 77,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.03658536585365857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0001",
+      "frame": {
+        "x": 762,
+        "y": 177,
+        "w": 77,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.0357142857142857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0002",
+      "frame": {
+        "x": 518,
+        "y": 173,
+        "w": 78,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 94,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.6025641025641025,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0003",
+      "frame": {
+        "x": 635,
+        "y": 1,
+        "w": 79,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.6075949367088608,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0004",
+      "frame": {
+        "x": 437,
+        "y": 167,
+        "w": 79,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.6075949367088608,
+        "y": 0.0357142857142857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0005",
+      "frame": {
+        "x": 339,
+        "y": 254,
+        "w": 78,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 94,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.6025641025641025,
+        "y": 0.03658536585365857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0006",
+      "frame": {
+        "x": 159,
+        "y": 505,
+        "w": 77,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.03658536585365857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0007",
+      "frame": {
+        "x": 762,
+        "y": 177,
+        "w": 77,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.0357142857142857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0008",
+      "frame": {
+        "x": 518,
+        "y": 173,
+        "w": 78,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 94,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.6025641025641025,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0009",
+      "frame": {
+        "x": 635,
+        "y": 1,
+        "w": 79,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.6075949367088608,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0010",
+      "frame": {
+        "x": 437,
+        "y": 167,
+        "w": 79,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.6075949367088608,
+        "y": 0.0357142857142857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0011",
+      "frame": {
+        "x": 339,
+        "y": 254,
+        "w": 78,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 94,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.6025641025641025,
+        "y": 0.03658536585365857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0012",
+      "frame": {
+        "x": 159,
+        "y": 505,
+        "w": 77,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.03658536585365857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0013",
+      "frame": {
+        "x": 762,
+        "y": 177,
+        "w": 77,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.0357142857142857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0014",
+      "frame": {
+        "x": 518,
+        "y": 173,
+        "w": 78,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 94,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.6025641025641025,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0015",
+      "frame": {
+        "x": 635,
+        "y": 1,
+        "w": 79,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.6075949367088608,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0016",
+      "frame": {
+        "x": 437,
+        "y": 167,
+        "w": 79,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.6075949367088608,
+        "y": 0.0357142857142857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0017",
+      "frame": {
+        "x": 80,
+        "y": 586,
+        "w": 77,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.03658536585365857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0018",
+      "frame": {
+        "x": 391,
+        "y": 942,
+        "w": 76,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5789473684210527,
+        "y": 0.03703703703703709
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0019",
+      "frame": {
+        "x": 471,
+        "y": 778,
+        "w": 76,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.5789473684210527,
+        "y": 0.03658536585365857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0020",
+      "frame": {
+        "x": 582,
+        "y": 265,
+        "w": 77,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.5844155844155844,
+        "y": 0.03614457831325302
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0021",
+      "frame": {
+        "x": 486,
+        "y": 347,
+        "w": 77,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.03614457831325302
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0022",
+      "frame": {
+        "x": 1,
+        "y": 593,
+        "w": 77,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.03658536585365857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0023",
+      "frame": {
+        "x": 661,
+        "y": 268,
+        "w": 77,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5844155844155844,
+        "y": 0.03703703703703709
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0024",
+      "frame": {
+        "x": 391,
+        "y": 942,
+        "w": 76,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5789473684210527,
+        "y": 0.03703703703703709
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0025",
+      "frame": {
+        "x": 471,
+        "y": 778,
+        "w": 76,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.5789473684210527,
+        "y": 0.03658536585365857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0026",
+      "frame": {
+        "x": 582,
+        "y": 265,
+        "w": 77,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.5844155844155844,
+        "y": 0.03614457831325302
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0027",
+      "frame": {
+        "x": 486,
+        "y": 347,
+        "w": 77,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.03614457831325302
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0028",
+      "frame": {
+        "x": 1,
+        "y": 593,
+        "w": 77,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.03658536585365857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0029",
+      "frame": {
+        "x": 392,
+        "y": 858,
+        "w": 76,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03658536585365857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0030",
+      "frame": {
+        "x": 469,
+        "y": 942,
+        "w": 76,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03703703703703709
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0031",
+      "frame": {
+        "x": 711,
+        "y": 697,
+        "w": 76,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03703703703703709
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0032",
+      "frame": {
+        "x": 628,
+        "y": 700,
+        "w": 76,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03703703703703709
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0033",
+      "frame": {
+        "x": 549,
+        "y": 782,
+        "w": 76,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03703703703703709
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0034",
+      "frame": {
+        "x": 871,
+        "y": 699,
+        "w": 76,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03703703703703709
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0035",
+      "frame": {
+        "x": 841,
+        "y": 177,
+        "w": 77,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.5584415584415584,
+        "y": 0.03658536585365857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0036",
+      "frame": {
+        "x": 407,
+        "y": 427,
+        "w": 77,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.5584415584415584,
+        "y": 0.03614457831325302
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0037",
+      "frame": {
+        "x": 799,
+        "y": 609,
+        "w": 76,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.0357142857142857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0038",
+      "frame": {
+        "x": 715,
+        "y": 611,
+        "w": 76,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.0357142857142857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0039",
+      "frame": {
+        "x": 896,
+        "y": 441,
+        "w": 76,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0040",
+      "frame": {
+        "x": 316,
+        "y": 600,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0041",
+      "frame": {
+        "x": 237,
+        "y": 686,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0042",
+      "frame": {
+        "x": 683,
+        "y": 95,
+        "w": 77,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5584415584415584,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0043",
+      "frame": {
+        "x": 598,
+        "y": 178,
+        "w": 77,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5584415584415584,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0044",
+      "frame": {
+        "x": 800,
+        "y": 522,
+        "w": 76,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0045",
+      "frame": {
+        "x": 721,
+        "y": 524,
+        "w": 76,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0046",
+      "frame": {
+        "x": 637,
+        "y": 528,
+        "w": 76,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0047",
+      "frame": {
+        "x": 555,
+        "y": 610,
+        "w": 76,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0048",
+      "frame": {
+        "x": 472,
+        "y": 691,
+        "w": 76,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0049",
+      "frame": {
+        "x": 80,
+        "y": 498,
+        "w": 77,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5584415584415584,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0050",
+      "frame": {
+        "x": 796,
+        "y": 1,
+        "w": 77,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5584415584415584,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0051",
+      "frame": {
+        "x": 158,
+        "y": 687,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0052",
+      "frame": {
+        "x": 79,
+        "y": 759,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0053",
+      "frame": {
+        "x": 1,
+        "y": 766,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0054",
+      "frame": {
+        "x": 913,
+        "y": 353,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0055",
+      "frame": {
+        "x": 818,
+        "y": 434,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0056",
+      "frame": {
+        "x": 503,
+        "y": 260,
+        "w": 77,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5584415584415584,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0057",
+      "frame": {
+        "x": 407,
+        "y": 340,
+        "w": 77,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5584415584415584,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0058",
+      "frame": {
+        "x": 393,
+        "y": 771,
+        "w": 76,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0059",
+      "frame": {
+        "x": 722,
+        "y": 436,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0060",
+      "frame": {
+        "x": 80,
+        "y": 670,
+        "w": 76,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 168
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03448275862068961
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0061",
+      "frame": {
+        "x": 643,
+        "y": 440,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0062",
+      "frame": {
+        "x": 559,
+        "y": 522,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0063",
+      "frame": {
+        "x": 244,
+        "y": 414,
+        "w": 77,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 168
+      },
+      "pivot": {
+        "x": 0.5584415584415584,
+        "y": 0.03448275862068961
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0064",
+      "frame": {
+        "x": 162,
+        "y": 416,
+        "w": 77,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 168
+      },
+      "pivot": {
+        "x": 0.5584415584415584,
+        "y": 0.03448275862068961
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0065",
+      "frame": {
+        "x": 1,
+        "y": 677,
+        "w": 76,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 168
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03448275862068961
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0066",
+      "frame": {
+        "x": 920,
+        "y": 264,
+        "w": 76,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 168
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03448275862068961
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0067",
+      "frame": {
+        "x": 835,
+        "y": 345,
+        "w": 76,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 168
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03448275862068961
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0068",
+      "frame": {
+        "x": 740,
+        "y": 347,
+        "w": 76,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 168
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03448275862068961
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0069",
+      "frame": {
+        "x": 644,
+        "y": 351,
+        "w": 76,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 168
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03448275862068961
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0070",
+      "frame": {
+        "x": 875,
+        "y": 1,
+        "w": 77,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5584415584415584,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0071",
+      "frame": {
+        "x": 796,
+        "y": 89,
+        "w": 77,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5584415584415584,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0072",
+      "frame": {
+        "x": 477,
+        "y": 603,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0073",
+      "frame": {
+        "x": 394,
+        "y": 683,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0074",
+      "frame": {
+        "x": 315,
+        "y": 688,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0075",
+      "frame": {
+        "x": 643,
+        "y": 440,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0076",
+      "frame": {
+        "x": 559,
+        "y": 522,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0077",
+      "frame": {
+        "x": 244,
+        "y": 414,
+        "w": 77,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 168
+      },
+      "pivot": {
+        "x": 0.5584415584415584,
+        "y": 0.03448275862068961
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0078",
+      "frame": {
+        "x": 162,
+        "y": 416,
+        "w": 77,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 168
+      },
+      "pivot": {
+        "x": 0.5584415584415584,
+        "y": 0.03448275862068961
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0079",
+      "frame": {
+        "x": 565,
+        "y": 433,
+        "w": 76,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 168
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03448275862068961
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0080",
+      "frame": {
+        "x": 920,
+        "y": 264,
+        "w": 76,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 168
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03448275862068961
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0081",
+      "frame": {
+        "x": 481,
+        "y": 514,
+        "w": 76,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 168
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03448275862068961
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0082",
+      "frame": {
+        "x": 399,
+        "y": 594,
+        "w": 76,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 168
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03448275862068961
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0083",
+      "frame": {
+        "x": 644,
+        "y": 351,
+        "w": 76,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 168
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03448275862068961
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0084",
+      "frame": {
+        "x": 875,
+        "y": 1,
+        "w": 77,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5584415584415584,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0085",
+      "frame": {
+        "x": 875,
+        "y": 89,
+        "w": 77,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5584415584415584,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0086",
+      "frame": {
+        "x": 236,
+        "y": 774,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0087",
+      "frame": {
+        "x": 394,
+        "y": 683,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0088",
+      "frame": {
+        "x": 80,
+        "y": 670,
+        "w": 76,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 168
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03448275862068961
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0089",
+      "frame": {
+        "x": 157,
+        "y": 775,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0090",
+      "frame": {
+        "x": 472,
+        "y": 691,
+        "w": 76,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0091",
+      "frame": {
+        "x": 80,
+        "y": 498,
+        "w": 77,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5584415584415584,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0092",
+      "frame": {
+        "x": 796,
+        "y": 1,
+        "w": 77,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5584415584415584,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0093",
+      "frame": {
+        "x": 79,
+        "y": 847,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0094",
+      "frame": {
+        "x": 79,
+        "y": 759,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0095",
+      "frame": {
+        "x": 1,
+        "y": 766,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0096",
+      "frame": {
+        "x": 913,
+        "y": 353,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0097",
+      "frame": {
+        "x": 818,
+        "y": 434,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5657894736842105,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0098",
+      "frame": {
+        "x": 503,
+        "y": 260,
+        "w": 77,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5584415584415584,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0099",
+      "frame": {
+        "x": 407,
+        "y": 340,
+        "w": 77,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5584415584415584,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0100",
+      "frame": {
+        "x": 800,
+        "y": 522,
+        "w": 76,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0101",
+      "frame": {
+        "x": 721,
+        "y": 524,
+        "w": 76,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0102",
+      "frame": {
+        "x": 637,
+        "y": 528,
+        "w": 76,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0103",
+      "frame": {
+        "x": 314,
+        "y": 776,
+        "w": 76,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0104",
+      "frame": {
+        "x": 716,
+        "y": 1,
+        "w": 78,
+        "h": 92
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 82,
+        "h": 178
+      },
+      "pivot": {
+        "x": 0.5256410256410257,
+        "y": 0.03260869565217395
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0105",
+      "frame": {
+        "x": 1,
+        "y": 496,
+        "w": 77,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 82,
+        "h": 184
+      },
+      "pivot": {
+        "x": 0.5324675324675324,
+        "y": 0.03157894736842104
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0106",
+      "frame": {
+        "x": 238,
+        "y": 588,
+        "w": 76,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 186
+      },
+      "pivot": {
+        "x": 0.5526315789473685,
+        "y": 0.03125
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0107",
+      "frame": {
+        "x": 159,
+        "y": 589,
+        "w": 76,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 186
+      },
+      "pivot": {
+        "x": 0.5789473684210527,
+        "y": 0.03125
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0108",
+      "frame": {
+        "x": 328,
+        "y": 338,
+        "w": 77,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 180
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.032258064516129004
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0109",
+      "frame": {
+        "x": 603,
+        "y": 88,
+        "w": 78,
+        "h": 88
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 94,
+        "h": 170
+      },
+      "pivot": {
+        "x": 0.6025641025641025,
+        "y": 0.03409090909090906
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0110",
+      "frame": {
+        "x": 518,
+        "y": 173,
+        "w": 78,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 94,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.6025641025641025,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0111",
+      "frame": {
+        "x": 635,
+        "y": 1,
+        "w": 79,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.6075949367088608,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0112",
+      "frame": {
+        "x": 437,
+        "y": 167,
+        "w": 79,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.6075949367088608,
+        "y": 0.0357142857142857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_L_0113",
+      "frame": {
+        "x": 339,
+        "y": 254,
+        "w": 78,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 94,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.6025641025641025,
+        "y": 0.03658536585365857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_R_0000",
+      "frame": {
+        "x": 920,
+        "y": 180,
+        "w": 77,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 77,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.4025974025974026,
+        "y": 0.03658536585365857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_R_0001",
+      "frame": {
+        "x": 677,
+        "y": 182,
+        "w": 77,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 77,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.4025974025974026,
+        "y": 0.0357142857142857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_R_0002",
+      "frame": {
+        "x": 423,
+        "y": 253,
+        "w": 78,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 0,
+        "w": 78,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 94,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.3974358974358974,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_R_0003",
+      "frame": {
+        "x": 522,
+        "y": 86,
+        "w": 79,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 0,
+        "w": 79,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.3924050632911392,
+        "y": 0.03529411764705881
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_R_0004",
+      "frame": {
+        "x": 342,
+        "y": 168,
+        "w": 79,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 0,
+        "w": 79,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.3924050632911392,
+        "y": 0.0357142857142857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_R_0005",
+      "frame": {
+        "x": 248,
+        "y": 330,
+        "w": 78,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 0,
+        "w": 78,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 94,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.3974358974358974,
+        "y": 0.03658536585365857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_LL_Part1_0000",
+      "frame": {
+        "x": 85,
+        "y": 244,
+        "w": 80,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.575,
+        "y": 0.0357142857142857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_LL_Part2_0000",
+      "frame": {
+        "x": 85,
+        "y": 244,
+        "w": 80,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.575,
+        "y": 0.0357142857142857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_LR_Part1_0000",
+      "frame": {
+        "x": 486,
+        "y": 432,
+        "w": 77,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.03749999999999998
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_LR_Part2_0000",
+      "frame": {
+        "x": 402,
+        "y": 512,
+        "w": 77,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 77,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.4025974025974026,
+        "y": 0.03749999999999998
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_LR_Turn_0000",
+      "frame": {
+        "x": 486,
+        "y": 432,
+        "w": 77,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.03749999999999998
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_LR_Turn_0001",
+      "frame": {
+        "x": 266,
+        "y": 82,
+        "w": 84,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5952380952380952,
+        "y": 0.025000000000000022
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_LR_Turn_0002",
+      "frame": {
+        "x": 164,
+        "y": 332,
+        "w": 78,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.5641025641025641,
+        "y": 0.024390243902439046
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_LR_Turn_0003",
+      "frame": {
+        "x": 945,
+        "y": 800,
+        "w": 70,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.5142857142857142,
+        "y": 0.024691358024691357
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_LR_Turn_0004",
+      "frame": {
+        "x": 954,
+        "y": 98,
+        "w": 58,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 58,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 58,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.025000000000000022
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_LR_Turn_0005",
+      "frame": {
+        "x": 706,
+        "y": 780,
+        "w": 70,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 0,
+        "w": 70,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.4857142857142857,
+        "y": 0.024691358024691357
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_LR_Turn_0006",
+      "frame": {
+        "x": 82,
+        "y": 414,
+        "w": 78,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 78,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.4358974358974359,
+        "y": 0.024390243902439046
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_LR_Turn_0007",
+      "frame": {
+        "x": 1,
+        "y": 162,
+        "w": 84,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 0,
+        "w": 84,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.40476190476190477,
+        "y": 0.025000000000000022
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_LR_Turn_0008",
+      "frame": {
+        "x": 402,
+        "y": 512,
+        "w": 77,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 77,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.4025974025974026,
+        "y": 0.03749999999999998
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_LR_Turn_After_0000",
+      "frame": {
+        "x": 402,
+        "y": 512,
+        "w": 77,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 77,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.4025974025974026,
+        "y": 0.03749999999999998
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_RL_Part1_0000",
+      "frame": {
+        "x": 402,
+        "y": 512,
+        "w": 77,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 77,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.4025974025974026,
+        "y": 0.03749999999999998
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_RL_Part2_0000",
+      "frame": {
+        "x": 486,
+        "y": 432,
+        "w": 77,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.03749999999999998
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_RL_Turn_0000",
+      "frame": {
+        "x": 402,
+        "y": 512,
+        "w": 77,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 77,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.4025974025974026,
+        "y": 0.03749999999999998
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_RL_Turn_0001",
+      "frame": {
+        "x": 87,
+        "y": 162,
+        "w": 84,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 0,
+        "w": 84,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.40476190476190477,
+        "y": 0.025000000000000022
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_RL_Turn_0002",
+      "frame": {
+        "x": 82,
+        "y": 414,
+        "w": 78,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 78,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.4358974358974359,
+        "y": 0.024390243902439046
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_RL_Turn_0003",
+      "frame": {
+        "x": 706,
+        "y": 780,
+        "w": 70,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 0,
+        "w": 70,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.4857142857142857,
+        "y": 0.024691358024691357
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_RL_Turn_0004",
+      "frame": {
+        "x": 956,
+        "y": 529,
+        "w": 58,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 58,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 58,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.025000000000000022
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_RL_Turn_0005",
+      "frame": {
+        "x": 945,
+        "y": 800,
+        "w": 70,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.5142857142857142,
+        "y": 0.024691358024691357
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_RL_Turn_0006",
+      "frame": {
+        "x": 164,
+        "y": 332,
+        "w": 78,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.5641025641025641,
+        "y": 0.024390243902439046
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_RL_Turn_0007",
+      "frame": {
+        "x": 464,
+        "y": 1,
+        "w": 84,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5952380952380952,
+        "y": 0.025000000000000022
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_RL_Turn_0008",
+      "frame": {
+        "x": 486,
+        "y": 432,
+        "w": 77,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.03749999999999998
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_RL_Turn_After_0000",
+      "frame": {
+        "x": 486,
+        "y": 432,
+        "w": 77,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.03749999999999998
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_RR_Part1_0000",
+      "frame": {
+        "x": 1,
+        "y": 326,
+        "w": 80,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 0,
+        "w": 80,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.425,
+        "y": 0.0357142857142857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_to_Walk_RR_Part2_0000",
+      "frame": {
+        "x": 1,
+        "y": 326,
+        "w": 80,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 0,
+        "w": 80,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.425,
+        "y": 0.0357142857142857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_Turn_LR_0000",
+      "frame": {
+        "x": 486,
+        "y": 432,
+        "w": 77,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.03749999999999998
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_Turn_LR_0001",
+      "frame": {
+        "x": 266,
+        "y": 82,
+        "w": 84,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5952380952380952,
+        "y": 0.025000000000000022
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_Turn_LR_0002",
+      "frame": {
+        "x": 164,
+        "y": 332,
+        "w": 78,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.5641025641025641,
+        "y": 0.024390243902439046
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_Turn_LR_0003",
+      "frame": {
+        "x": 945,
+        "y": 800,
+        "w": 70,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.5142857142857142,
+        "y": 0.024691358024691357
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_Turn_LR_0004",
+      "frame": {
+        "x": 954,
+        "y": 98,
+        "w": 58,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 58,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 58,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.025000000000000022
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_Turn_LR_0005",
+      "frame": {
+        "x": 706,
+        "y": 780,
+        "w": 70,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 0,
+        "w": 70,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.4857142857142857,
+        "y": 0.024691358024691357
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_Turn_LR_0006",
+      "frame": {
+        "x": 82,
+        "y": 414,
+        "w": 78,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 78,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.4358974358974359,
+        "y": 0.024390243902439046
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_Turn_LR_0007",
+      "frame": {
+        "x": 1,
+        "y": 162,
+        "w": 84,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 0,
+        "w": 84,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.40476190476190477,
+        "y": 0.025000000000000022
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_Turn_LR_0008",
+      "frame": {
+        "x": 402,
+        "y": 512,
+        "w": 77,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 77,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.4025974025974026,
+        "y": 0.03749999999999998
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_Turn_RL_0000",
+      "frame": {
+        "x": 402,
+        "y": 512,
+        "w": 77,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 77,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.4025974025974026,
+        "y": 0.03749999999999998
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_Turn_RL_0001",
+      "frame": {
+        "x": 87,
+        "y": 162,
+        "w": 84,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 0,
+        "w": 84,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.40476190476190477,
+        "y": 0.025000000000000022
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_Turn_RL_0002",
+      "frame": {
+        "x": 82,
+        "y": 414,
+        "w": 78,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 78,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.4358974358974359,
+        "y": 0.024390243902439046
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_Turn_RL_0003",
+      "frame": {
+        "x": 706,
+        "y": 780,
+        "w": 70,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 0,
+        "w": 70,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.4857142857142857,
+        "y": 0.024691358024691357
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_Turn_RL_0004",
+      "frame": {
+        "x": 956,
+        "y": 529,
+        "w": 58,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 58,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 58,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.025000000000000022
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_Turn_RL_0005",
+      "frame": {
+        "x": 945,
+        "y": 800,
+        "w": 70,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.5142857142857142,
+        "y": 0.024691358024691357
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_Turn_RL_0006",
+      "frame": {
+        "x": 164,
+        "y": 332,
+        "w": 78,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.5641025641025641,
+        "y": 0.024390243902439046
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_Turn_RL_0007",
+      "frame": {
+        "x": 464,
+        "y": 1,
+        "w": 84,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5952380952380952,
+        "y": 0.025000000000000022
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Idle_Turn_RL_0008",
+      "frame": {
+        "x": 486,
+        "y": 432,
+        "w": 77,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.03749999999999998
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_IntroPose_0000",
+      "frame": {
+        "x": 212,
+        "y": 949,
+        "w": 52,
+        "h": 73
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 52,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 52,
+        "h": 136
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.06849315068493156
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_IntroPose_0001",
+      "frame": {
+        "x": 470,
+        "y": 862,
+        "w": 51,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 0,
+        "w": 51,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 52,
+        "h": 148
+      },
+      "pivot": {
+        "x": 0.49019607843137253,
+        "y": 0.05128205128205132
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_IntroPose_0002",
+      "frame": {
+        "x": 974,
+        "y": 441,
+        "w": 49,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 0,
+        "w": 49,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 52,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.46938775510204084,
+        "y": 0.05813953488372092
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_IntroPose_0003",
+      "frame": {
+        "x": 627,
+        "y": 783,
+        "w": 50,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 0,
+        "w": 50,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 52,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.48,
+        "y": 0.048192771084337394
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_IntroPose_0004",
+      "frame": {
+        "x": 79,
+        "y": 935,
+        "w": 53,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 0,
+        "w": 53,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 170
+      },
+      "pivot": {
+        "x": 0.4716981132075472,
+        "y": 0.02298850574712641
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_IntroPose_0005",
+      "frame": {
+        "x": 956,
+        "y": 611,
+        "w": 50,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 0,
+        "w": 50,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 52,
+        "h": 182
+      },
+      "pivot": {
+        "x": 0.48,
+        "y": 0.021505376344086002
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_IntroPose_0006",
+      "frame": {
+        "x": 954,
+        "y": 1,
+        "w": 66,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 74,
+        "h": 188
+      },
+      "pivot": {
+        "x": 0.5606060606060606,
+        "y": 0.010526315789473717
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_IntroPose_0007",
+      "frame": {
+        "x": 949,
+        "y": 706,
+        "w": 71,
+        "h": 92
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 86,
+        "h": 182
+      },
+      "pivot": {
+        "x": 0.6056338028169014,
+        "y": 0.010869565217391353
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_IntroPose_0008",
+      "frame": {
+        "x": 320,
+        "y": 518,
+        "w": 77,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.03749999999999998
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_IntroPose_0009",
+      "frame": {
+        "x": 565,
+        "y": 350,
+        "w": 77,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.024691358024691357
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_IntroPose_Still_0000",
+      "frame": {
+        "x": 157,
+        "y": 863,
+        "w": 52,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 52,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 52,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.05797101449275366
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_Loop_L_0000",
+      "frame": {
+        "x": 85,
+        "y": 244,
+        "w": 80,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.575,
+        "y": 0.0357142857142857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_Loop_L_0001",
+      "frame": {
+        "x": 1,
+        "y": 854,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 94,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.618421052631579,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_Loop_L_0002",
+      "frame": {
+        "x": 235,
+        "y": 862,
+        "w": 76,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 168
+      },
+      "pivot": {
+        "x": 0.6052631578947368,
+        "y": 0.0117647058823529
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_Loop_L_0003",
+      "frame": {
+        "x": 633,
+        "y": 615,
+        "w": 76,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.6052631578947368,
+        "y": 0.012048192771084376
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_Loop_L_0004",
+      "frame": {
+        "x": 789,
+        "y": 779,
+        "w": 76,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.6052631578947368,
+        "y": 0.024691358024691357
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_Loop_L_0005",
+      "frame": {
+        "x": 877,
+        "y": 615,
+        "w": 76,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.5921052631578947,
+        "y": 0.024390243902439046
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_Loop_L_0006",
+      "frame": {
+        "x": 323,
+        "y": 433,
+        "w": 77,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.02409638554216864
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_Loop_L_0007",
+      "frame": {
+        "x": 841,
+        "y": 261,
+        "w": 77,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.03658536585365857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_Loop_R_0000",
+      "frame": {
+        "x": 1,
+        "y": 326,
+        "w": 80,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 0,
+        "w": 80,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.425,
+        "y": 0.0357142857142857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_Loop_R_0001",
+      "frame": {
+        "x": 134,
+        "y": 935,
+        "w": 76,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 76,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 94,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.3815789473684211,
+        "y": 0.03488372093023251
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_Loop_R_0002",
+      "frame": {
+        "x": 878,
+        "y": 528,
+        "w": 76,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 0,
+        "w": 76,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 168
+      },
+      "pivot": {
+        "x": 0.39473684210526316,
+        "y": 0.0117647058823529
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_Loop_R_0003",
+      "frame": {
+        "x": 550,
+        "y": 697,
+        "w": 76,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 0,
+        "w": 76,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.39473684210526316,
+        "y": 0.012048192771084376
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_Loop_R_0004",
+      "frame": {
+        "x": 867,
+        "y": 782,
+        "w": 76,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 0,
+        "w": 76,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.39473684210526316,
+        "y": 0.024691358024691357
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_Loop_R_0005",
+      "frame": {
+        "x": 793,
+        "y": 695,
+        "w": 76,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 0,
+        "w": 76,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.40789473684210525,
+        "y": 0.024390243902439046
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_Loop_R_0006",
+      "frame": {
+        "x": 241,
+        "y": 503,
+        "w": 77,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 77,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.4025974025974026,
+        "y": 0.02409638554216864
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_Loop_R_0007",
+      "frame": {
+        "x": 756,
+        "y": 263,
+        "w": 77,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 77,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.4025974025974026,
+        "y": 0.03658536585365857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_to_Idle_LL_End_0000",
+      "frame": {
+        "x": 159,
+        "y": 505,
+        "w": 77,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.03658536585365857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_to_Idle_RR_End_0000",
+      "frame": {
+        "x": 920,
+        "y": 180,
+        "w": 77,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 77,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.4025974025974026,
+        "y": 0.03658536585365857
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_to_Walk_LR_Turn_0000",
+      "frame": {
+        "x": 486,
+        "y": 432,
+        "w": 77,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.03749999999999998
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_to_Walk_LR_Turn_0001",
+      "frame": {
+        "x": 266,
+        "y": 82,
+        "w": 84,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5952380952380952,
+        "y": 0.025000000000000022
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_to_Walk_LR_Turn_0002",
+      "frame": {
+        "x": 164,
+        "y": 332,
+        "w": 78,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.5641025641025641,
+        "y": 0.024390243902439046
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_to_Walk_LR_Turn_0003",
+      "frame": {
+        "x": 945,
+        "y": 800,
+        "w": 70,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.5142857142857142,
+        "y": 0.024691358024691357
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_to_Walk_LR_Turn_0004",
+      "frame": {
+        "x": 954,
+        "y": 98,
+        "w": 58,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 58,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 58,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.025000000000000022
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_to_Walk_LR_Turn_0005",
+      "frame": {
+        "x": 706,
+        "y": 780,
+        "w": 70,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 0,
+        "w": 70,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.4857142857142857,
+        "y": 0.024691358024691357
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_to_Walk_LR_Turn_0006",
+      "frame": {
+        "x": 82,
+        "y": 414,
+        "w": 78,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 78,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.4358974358974359,
+        "y": 0.024390243902439046
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_to_Walk_LR_Turn_0007",
+      "frame": {
+        "x": 1,
+        "y": 162,
+        "w": 84,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 0,
+        "w": 84,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.40476190476190477,
+        "y": 0.025000000000000022
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_to_Walk_LR_Turn_0008",
+      "frame": {
+        "x": 402,
+        "y": 512,
+        "w": 77,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 77,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.4025974025974026,
+        "y": 0.03749999999999998
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_to_Walk_LR_Turn_Part2_0000",
+      "frame": {
+        "x": 402,
+        "y": 512,
+        "w": 77,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 77,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.4025974025974026,
+        "y": 0.03749999999999998
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_to_Walk_RL_Turn_0000",
+      "frame": {
+        "x": 402,
+        "y": 512,
+        "w": 77,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 77,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.4025974025974026,
+        "y": 0.03749999999999998
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_to_Walk_RL_Turn_0001",
+      "frame": {
+        "x": 87,
+        "y": 162,
+        "w": 84,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 0,
+        "w": 84,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.40476190476190477,
+        "y": 0.025000000000000022
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_to_Walk_RL_Turn_0002",
+      "frame": {
+        "x": 82,
+        "y": 414,
+        "w": 78,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 0,
+        "w": 78,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.4358974358974359,
+        "y": 0.024390243902439046
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_to_Walk_RL_Turn_0003",
+      "frame": {
+        "x": 706,
+        "y": 780,
+        "w": 70,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 0,
+        "w": 70,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.4857142857142857,
+        "y": 0.024691358024691357
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_to_Walk_RL_Turn_0004",
+      "frame": {
+        "x": 956,
+        "y": 529,
+        "w": 58,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 58,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 58,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.025000000000000022
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_to_Walk_RL_Turn_0005",
+      "frame": {
+        "x": 945,
+        "y": 800,
+        "w": 70,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.5142857142857142,
+        "y": 0.024691358024691357
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_to_Walk_RL_Turn_0006",
+      "frame": {
+        "x": 164,
+        "y": 332,
+        "w": 78,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.5641025641025641,
+        "y": 0.024390243902439046
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_to_Walk_RL_Turn_0007",
+      "frame": {
+        "x": 464,
+        "y": 1,
+        "w": 84,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 156
+      },
+      "pivot": {
+        "x": 0.5952380952380952,
+        "y": 0.025000000000000022
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_to_Walk_RL_Turn_0008",
+      "frame": {
+        "x": 486,
+        "y": 432,
+        "w": 77,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.03749999999999998
+      }
+    },
+    {
+      "filename": "Soldier_002_ShieldBearer_Walk_to_Walk_RL_Turn_Part2_0000",
+      "frame": {
+        "x": 486,
+        "y": 432,
+        "w": 77,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.5974025974025974,
+        "y": 0.03749999999999998
+      }
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "Soldier_002_ShieldBearer_00.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 1024
+    },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:3d95adb78fb325dc9d2bb2fe6ad90b73:815edf8d7a992261977cf4320f57060e:1c42a6dd8cd48876c464fb8b2884263c$"
+  }
+}

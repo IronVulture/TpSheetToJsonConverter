@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pcIBNOGzwRX7uw/3ArVtbD47VGHRT1SUHxuZkyjOtcifPvVOKB680HENDQhznkjrNydwaTtZUpne7oMsF1p6Dg==",
+  "success": true,
+  "projectFilePath": "D:\\OOOneStudio\\TpSheetToJson2\\TpSheetToJson2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aloner\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
